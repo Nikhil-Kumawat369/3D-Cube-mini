@@ -8,7 +8,7 @@ This project demonstrates CSS 3D transforms, perspective, and keyframe animation
 ## 🌐 Live Demo
 
 🔗 **Deployed here:**  
-https://your-deployment-link-here.com
+https://nikhil-kumawat369.github.io/3D-Cube-mini/
 
 ---
 
